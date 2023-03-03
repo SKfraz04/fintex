@@ -1,0 +1,40 @@
+.footer-section{
+    background: #162937;
+}
+.footer-company h5{
+    color: white;
+}
+
+.footer-company li{
+list-style: none;
+margin-left: -30px;
+color: white;
+}
+.footer-legal h5{
+    color: white;
+}
+.footer-legal li{
+        list-style: none;
+color: white;
+margin-left: -30px;
+}
+.Subscibe-input button{
+    background-color: white;
+    color: black;
+    padding: 2px 10px;
+    border-radius: 5px;
+    border: white;
+}
+.Subsciber h5{
+    color: white;
+}
+.rights {
+    color: white;
+    padding: 50px 0 ; 
+}
+.footer-hr{
+    color: white;
+}
+.footer-list{
+    padding: 150px 0 50px;
+}

@@ -1,0 +1,18 @@
+a.nav-link {
+    color: #162937;
+    font-weight: 500;
+    max-height: 40px;
+}
+a.nav-link:last-child {
+    padding: 7px 15px;
+    color: #fff;
+    background: #162937;
+    border-radius: 100px;
+}
+.navbar-nav a:hover{
+    content: ("");
+    border-bottom: 2px solid #162937;
+}
+.navbar-nav a:last-child:hover{
+    border-bottom:none;
+}
